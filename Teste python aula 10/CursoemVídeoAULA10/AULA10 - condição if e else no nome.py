@@ -2,7 +2,7 @@
 n = (str(input('Digite seu nome:'))).strip()
 n1 = n.upper()
 if n1 == 'KEVYN':
-    print(f'Seu nome é tão bonito. \nBom dia,{n}!')
+    print(f'Seu nome é tão bonito. \nBom dia, {n}!')
 else:
     print('Seu nome é tão sem sal.')
     print(f'Bom dia, {n}!')
